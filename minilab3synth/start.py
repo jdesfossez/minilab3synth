@@ -49,7 +49,7 @@ class Synth:
         self.inst_id = None
         self.drum_id = None
         self.default_inst_bank = "/usr/share/sounds/sf2/FluidR3_GM.sf2"
-        self.default_drum_bank = "minilabsynth/PNS_Drim_Kit.SF2"
+        self.default_drum_bank = "minilab3synth/PNS_Drim_Kit.SF2"
         self.inst_midi_channel = 0
         self.drum_midi_channel = 9
         self.mlab = Minilab3()
